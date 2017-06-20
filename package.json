@@ -19,10 +19,7 @@
   "directories": {
     "test": "test"
   },
-  "dependencies": {
-    "co-mocha": "^1.1.3",
-    "chai": "^3.5.0"
-  },
+  "dependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rainder/node-counter.git"
